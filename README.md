@@ -7,13 +7,13 @@
 1. Fork this repository
 
    ```
-   https://github.com/Kronzii88/hacktoberfest2021.git
+   https://github.com/Kronzii88/Hacktoberfest-2021.git
    ```
 
 2. Clone forked repository
 
    ```
-   https://github.com/{your-username}/hacktoberfest2021.git
+   https://github.com/{your-username}/Hacktoberfest-2021.git
    ```
 
 3. Open index.html in the code editor and modify the following lines
